@@ -2,11 +2,11 @@
 _____
 
 ## I'm currently studying Computer Science at Athens University of Economics and Business.
--💻 I love coding
+- 💻 I love coding
 
--👾 I recently started in game development
+- 👾 I recently started in game development
 
--💬 Ask me anything tech related!
+- 💬 Ask me anything tech related!
 
 ### How to reach me
 
