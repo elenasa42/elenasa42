@@ -14,10 +14,6 @@
 
 <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elenasa42&show_icons=true&theme=jolly   )
-
- <br />
- 
 
  
 [linkedin]: https://www.linkedin.com/in/helenasaxoni/
