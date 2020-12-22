@@ -1,7 +1,6 @@
-### Hey, there. I'm Helena 👋 
-_____
+## Hey, there. I'm Helena 👋 
 
-## I'm currently studying Computer Science at Athens University of Economics and Business.
+### I'm currently studying Computer Science at Athens University of Economics and Business.
 - 💻 I love coding
 
 - 👾 I recently started in game development
