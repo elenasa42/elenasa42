@@ -14,13 +14,6 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elenasa42&layout=compact)](https://github.com/elenasa42/github-readme-stats)
-
-
-
-<br />
-<br />
-
 
 [linkedin]: https://www.linkedin.com/in/helenasaxoni/
 [instagram]: https://www.instagram.com/el_kasll/
