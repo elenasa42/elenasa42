@@ -15,7 +15,7 @@
 <br />
 
 ______
-![Helena's github stats](https://github-readme-stats.vercel.app/api?username=elenasa42&show_icons=true&theme=radical)
+![Helena's github stats](https://github-readme-stats.vercel.app/api?username=elenasa42&show_icons=true&theme=chartreuse-dark)
 
  
 [linkedin]: https://www.linkedin.com/in/helenasaxoni/
